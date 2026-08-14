@@ -14,6 +14,8 @@ The original and reconstructed signals are analyzed in both the **time and frequ
 
 OUTPUT LINK: https://colab.research.google.com/drive/1baBsgCoLmyjHJSoI8wKHvpBh_yTwdWR2#scrollTo=nvSbCn0Nx5yG&fullscreenOutput=true
 
+PPT: https://drive.google.com/file/d/1v1vTR6Gsh1e_7ZWfK9NgwXA25L1m2vXa/view?usp=sharing
+
 ## 🎯 Objectives
 
 * Verify the Sampling Theorem.
